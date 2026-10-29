@@ -16,4 +16,4 @@ node_modules/
 EOF
 
 pkg/
-src/
+src/utils
